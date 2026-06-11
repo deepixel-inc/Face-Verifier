@@ -36,7 +36,7 @@ The illustration below demonstrates how enrolled faces are authenticated.
 ##### 1. Accuracy
 | Metric                | Performance | Condition / Remark  |
 | :-------------------- | :---------- | :------------------ |
-| Face Recognition Rate | **99.6%**   | -                   |
+| Face Recognition Rate | **99.1%**   | -                   |
 | Anti-Spoofing         | **97.8%**   | TPR @ FPR $10^{-5}$ |
 
 ##### 2. Inference Speed (Latency)
