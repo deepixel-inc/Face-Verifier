@@ -11,6 +11,7 @@ The system processes the entire pipeline from face detection to final verificati
 * CPU-only optimized design for low-latency, standalone operations
 
 The illustration below demonstrates how enrolled faces are authenticated.
+
 ![](resource/demo.png)
 ---
 
