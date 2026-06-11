@@ -19,9 +19,8 @@ The illustration below demonstrates how enrolled faces are authenticated.
 
 * Real-time face detection and alignment
 * Built-in Anti-spoofing (Presentation Attack Detection)
-* High-speed face verification & matching
+* High-speed face verification 
 * CPU-only operation (Optimized for edge/desktop environments)
-* Sequential pipeline processing for access control systems
 
 ---
 
